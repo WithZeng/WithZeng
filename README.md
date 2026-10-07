@@ -9,8 +9,10 @@
 I'm WithZeng. Mornings at my internship, afternoons back in class, evenings building small things I actually use.
 The doodle with round glasses and a stubborn tuft of hair is me. Over on [my site](https://withzeng.de), its eyes follow your cursor.
 
+- 🎓 Third year, Materials Science & Engineering
 - 🛠️ Lately: small helpers for my own day-to-day, a few side projects on Cloudflare, an ink-wash dashboard theme
 - 🎬 For fun: turning my day into a one-minute cartoon, drawn by hand and animated with code
+- 🏸 Off the clock: badminton and anime. Currently hooked on *Cang Yuan Tu* (The Demon Hunter)
 - 📫 Say hi: [withzengx@gmail.com](mailto:withzengx@gmail.com)
 
 ---

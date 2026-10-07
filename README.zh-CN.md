@@ -24,13 +24,14 @@
 | [**ai-bill-tracker**](https://github.com/WithZeng/ai-bill-tracke) | 一个安卓记账小应用，帮我记住钱都花到哪儿去了 | Python · Android |
 | [**withzeng.de**](https://withzeng.de/zh/) | 我的个人主页，手绘的，会动 | Astro · Cloudflare |
 
-### WithZeng 的一天 · EP01
+### 我的日常小动画
 
-<a href="https://withzeng.de/zh/shorts/ep01/">
-  <img src="./assets/ep01-preview.gif" alt="EP01 片段：遇到报错，改一行后修好" width="520" />
-</a>
+先手绘自己，再用代码让它动起来。每集一分钟。
 
-起床、通勤、上班、遇到 bug、修好、上课打瞌睡、半夜再 push 一次。一分钟。[▶ 看完整版](https://withzeng.de/zh/shorts/ep01/)
+| [EP01 · WithZeng 的一天](https://withzeng.de/zh/shorts/ep01/) | [EP02 · 把我画进网页](https://withzeng.de/zh/shorts/ep02/) |
+| :---: | :---: |
+| <a href="https://withzeng.de/zh/shorts/ep01/"><img src="./assets/ep01-preview.gif" alt="EP01 片段：遇到报错，改一行后修好" width="400" /></a> | <a href="https://withzeng.de/zh/shorts/ep02/"><img src="./assets/ep02-preview.gif" alt="EP02 片段：网页里角色的眼睛跟着鼠标转" width="400" /></a> |
+| 起床、通勤、上班、遇到 bug、修好、上课打瞌睡、半夜 push。 | 这个网站是怎么来的：一张手绘、一次翻车的部署，和一个大得离谱的字体。 |
 
 ### 常用的工具
 

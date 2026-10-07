@@ -24,13 +24,14 @@ The doodle with round glasses and a stubborn tuft of hair is me. Over on [my sit
 | [**ai-bill-tracker**](https://github.com/WithZeng/ai-bill-tracke) | An Android app that keeps track of where my money goes | Python · Android |
 | [**withzeng.de**](https://withzeng.de) | My corner of the internet, hand-drawn and a bit wiggly | Astro · Cloudflare |
 
-### A day as WithZeng · EP01
+### Little cartoons of my days
 
-<a href="https://withzeng.de/shorts/ep01/">
-  <img src="./assets/ep01-preview.gif" alt="EP01 clip: hitting a bug, then fixing it with one line" width="520" />
-</a>
+I draw myself by hand, then animate it with code. One minute each, captions in Chinese.
 
-Wake up, commute, work, hit a bug, fix it, nod off in class, push one last commit at midnight. One minute, captions in Chinese. [▶ Watch the whole thing](https://withzeng.de/shorts/ep01/)
+| [EP01 · A day as WithZeng](https://withzeng.de/shorts/ep01/) | [EP02 · Drawing myself into a website](https://withzeng.de/shorts/ep02/) |
+| :---: | :---: |
+| <a href="https://withzeng.de/shorts/ep01/"><img src="./assets/ep01-preview.gif" alt="EP01 clip: hitting a bug, then fixing it with one line" width="400" /></a> | <a href="https://withzeng.de/shorts/ep02/"><img src="./assets/ep02-preview.gif" alt="EP02 clip: the character's eyes follow the cursor on my website" width="400" /></a> |
+| Wake up, commute, work, hit a bug, fix it, nod off in class, push at midnight. | How this site got made: a doodle, a broken deploy, and a font that was way too big. |
 
 ### Tools I reach for
 

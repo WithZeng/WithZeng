@@ -1,46 +1,46 @@
+<p align="right"><b>English</b> · <a href="./README.zh-CN.md">简体中文</a></p>
+
 <a href="https://withzeng.de">
-  <img src="./assets/banner.svg" alt="Hi, I'm WithZeng — 在读 · 实习中 · AI agent & automation builder" width="100%" />
+  <img src="./assets/banner.svg" alt="Hi, I'm WithZeng. Student, intern, maker of small tools and doodles." width="100%" />
 </a>
 
-### 你好，我是 WithZeng ✦
+### Hey there ✦
 
-白天实习写代码，下午回学校上课，晚上折腾 AI agent 和自动化小工具。
-横幅里那个戴圆眼镜、顶着呆毛的小人是我自己画的，现在它会在 [我的主页](https://withzeng.de) 上跟着你的鼠标转眼睛。
+I'm WithZeng. Mornings at my internship, afternoons back in class, evenings building small things I actually use.
+The doodle with round glasses and a stubborn tuft of hair is me. Over on [my site](https://withzeng.de), its eyes follow your cursor.
 
-*Student · intern · building AI agents and small automation tools.*
-
-- 🛠️ 最近在做：Claude Code skills、Cloudflare Workers 小工具、服务器监控面板主题
-- 🎬 副业：用代码给自己画日常动画（Remotion）
-- 📫 联系我：[withzengx@gmail.com](mailto:withzengx@gmail.com)
+- 🛠️ Lately: small helpers for my own day-to-day, a few side projects on Cloudflare, an ink-wash dashboard theme
+- 🎬 For fun: turning my day into a one-minute cartoon, drawn by hand and animated with code
+- 📫 Say hi: [withzengx@gmail.com](mailto:withzengx@gmail.com)
 
 ---
 
-### 精选项目
+### Things I've made
 
-| 项目 | 简介 | 技术 |
+| Project | What it is | Built with |
 | --- | --- | --- |
-| [**cfsm-theme-withzeng**](https://github.com/WithZeng/cfsm-theme-withzeng) | 《剑来》水墨风格的 CF-Server-Monitor 主题 | TypeScript · Cloudflare |
-| [**metallography-image-classification**](https://github.com/WithZeng/metallography-image-classification) | 金相显微图像分类 | Python · 深度学习 |
-| [**ai-bill-tracker**](https://github.com/WithZeng/ai-bill-tracke) | 安卓 + AI 消费日志追踪系统 | Python · Android |
-| [**withzeng.de**](https://withzeng.de) | 个人主页：手绘角色 + 交互动画 | Astro · Cloudflare Workers |
+| [**cfsm-theme-withzeng**](https://github.com/WithZeng/cfsm-theme-withzeng) | An ink-wash theme for CF-Server-Monitor, inspired by the novel *Sword of Coming* | TypeScript · Cloudflare |
+| [**metallography-image-classification**](https://github.com/WithZeng/metallography-image-classification) | Telling metals apart by their structure under a microscope | Python |
+| [**ai-bill-tracker**](https://github.com/WithZeng/ai-bill-tracke) | An Android app that keeps track of where my money goes | Python · Android |
+| [**withzeng.de**](https://withzeng.de) | My corner of the internet, hand-drawn and a bit wiggly | Astro · Cloudflare |
 
-### 我的一天 · EP01
+### A day as WithZeng · EP01
 
 <a href="https://withzeng.de/shorts/ep01/">
-  <img src="./assets/ep01-preview.gif" alt="EP01 片段：报错抓狂，改一行后测试通过" width="520" />
+  <img src="./assets/ep01-preview.gif" alt="EP01 clip: hitting a bug, then fixing it with one line" width="520" />
 </a>
 
-60 秒小动画：起床 → 通勤 → 实习 → 报错 → 跑通 → 上课 → 深夜 push。角色来自我的手绘，动画、配乐和音效全部用代码生成。[▶ 看完整版](https://withzeng.de/shorts/ep01/)
+Wake up, commute, work, hit a bug, fix it, nod off in class, push one last commit at midnight. One minute, captions in Chinese. [▶ Watch the whole thing](https://withzeng.de/shorts/ep01/)
 
-### 常用技术
+### Tools I reach for
 
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,go,react,astro,cloudflare,docker,linux,git&perline=9" alt="Python, TypeScript, Go, React, Astro, Cloudflare, Docker, Linux, Git" />
 </p>
 
-### 贡献图
+### My commits, eaten by a snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WithZeng/WithZeng/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/WithZeng/WithZeng/output/github-snake.svg" alt="贡献图贪吃蛇动画" width="100%" />
+  <img src="https://raw.githubusercontent.com/WithZeng/WithZeng/output/github-snake.svg" alt="Contribution graph being eaten by a snake" width="100%" />
 </picture>
